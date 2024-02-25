@@ -1,0 +1,6 @@
+.features {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 50px 120px;
+  background: #f2f5ff;
+}

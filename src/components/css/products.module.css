@@ -1,0 +1,32 @@
+.products {
+  padding: 50px 120px;
+}
+
+.products-title {
+  text-align: center;
+  text-transform: capitalize;
+  color: #333;
+}
+
+.products-title h1 {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.products-title p {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.images {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+.images img {
+  width: 500px;
+  height: 700px;
+  object-fit: cover;
+  border-radius: 10px;
+}

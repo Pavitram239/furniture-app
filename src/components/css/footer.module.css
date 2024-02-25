@@ -1,0 +1,32 @@
+.footer {
+  padding: 70px 50px;
+  background: #03344f;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 3rem;
+}
+
+.footer h1 {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: capitalize;
+  margin: 20px auto 34px;
+}
+
+.footer p {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 35px; /* 218.75% */
+}
+
+.footer-images {
+  display: flex;
+  gap: 2rem;
+}
+
+.footer img {
+  width: 100px;
+  height: 100px;
+}

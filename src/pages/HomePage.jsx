@@ -1,10 +1,21 @@
-import { Header, Hero } from '../components/index';
+import {
+  Features,
+  Footer,
+  Header,
+  Hero,
+  NewsLetter,
+  Products,
+} from "../components/index";
 
 const HomePage = () => {
   return (
     <>
       <Header />
       <Hero />
+      <Features />
+      <Products />
+      <NewsLetter />
+      <Footer />
     </>
   );
 };

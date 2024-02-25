@@ -1,0 +1,18 @@
+.feature-item {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  margin: auto;
+  text-transform: capitalize;
+  color: #333;
+}
+
+.feature-item h1 {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.feature-item p {
+  font-size: 16px;
+  font-weight: 400;
+}
