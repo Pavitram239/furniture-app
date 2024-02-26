@@ -1,5 +1,5 @@
 .navbar {
-  padding: 40px 120px;
+  padding: 2.5rem 7.5rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -7,7 +7,7 @@
 
 .nav-brand a {
   color: #054c73;
-  font-size: 34px;
+  font-size: 2.125rem;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
@@ -22,7 +22,7 @@
 
 .link a {
   color: #333;
-  font-size: 14px;
+  font-size: 0.875rem;
   font-style: normal;
   font-weight: 600;
   line-height: normal;

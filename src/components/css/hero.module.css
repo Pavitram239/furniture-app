@@ -9,14 +9,14 @@
 }
 
 .hero-card {
-  padding: 40px;
+  padding: 2.5rem;
   background: #dfe9f4;
-  width: 643px;
-  height: 443px;
-  border-radius: 10px;
+  width: 32rem;
+  height: 29rem;
+  border-radius: 0.625rem;
   position: absolute;
-  top: 155px;
-  right: 90px;
+  top: 5rem;
+  right: 5rem;
 }
 
 .hero-card > * {
@@ -25,7 +25,7 @@
 
 .hero-card h1 {
   color: #054c73;
-  font-size: 52px;
+  font-size: 3.25rem;
   font-style: normal;
   font-weight: 700;
   text-transform: capitalize;
@@ -33,17 +33,17 @@
 
 .hero-card :nth-child(1) {
   color: #333;
-  font-size: 16px;
+  font-size: 1rem;
   font-style: normal;
   font-weight: 600;
   line-height: normal;
-  letter-spacing: 3px;
+  letter-spacing: 0.188rem;
 }
 
 .hero-card p:nth-child(3) {
   color: #333;
-  font-size: 18px;
+  font-size: 1.125rem;
   font-style: normal;
   font-weight: 500;
-  line-height: 39px; /* 216.667% */
+  line-height: 2.438rem; /* 216.667% */
 }
