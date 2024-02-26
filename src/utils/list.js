@@ -5,18 +5,14 @@ export const navLinks = [
   },
   {
     name: 'Services',
-    url: '/',
-  },
-  {
-    name: 'Doctors',
-    url: '/',
+    url: '/services',
   },
   {
     name: 'Products',
-    url: '/',
+    url: '/products',
   },
   {
     name: 'Gallery',
-    url: '/',
+    url: '/Gallery',
   },
 ];

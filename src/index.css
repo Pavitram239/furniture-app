@@ -20,3 +20,9 @@
   line-height: normal;
   text-transform: uppercase;
 }
+
+.page {
+  height: 50vh;
+  text-align: center;
+  padding: 4rem;
+}

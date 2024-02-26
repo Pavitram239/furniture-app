@@ -5,17 +5,15 @@ import {
   Hero,
   NewsLetter,
   Products,
-} from "../components/index";
+} from '../components/index';
 
 const HomePage = () => {
   return (
     <>
-      <Header />
       <Hero />
       <Features />
       <Products />
       <NewsLetter />
-      <Footer />
     </>
   );
 };

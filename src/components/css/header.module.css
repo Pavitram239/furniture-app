@@ -27,3 +27,7 @@
   font-weight: 600;
   line-height: normal;
 }
+
+.link:hover {
+  border-bottom: 1px solid black;
+}
